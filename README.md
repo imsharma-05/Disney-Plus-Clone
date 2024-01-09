@@ -119,11 +119,10 @@ Start the server
 
 ## :email:Feedback
 
-If you have any feedback, please reach out to us at sharmn6395960@gmail.com
+If you have any feedback, please reach out to us at s.sharma9754649@gmail.com
 
 
 ## :scroll:License
 
-Copyright (c) 2022 Shivam Sharma
+Copyright (c) 2023 Satyam Sharma
 
-Licensed under the MIT License, available here: https://github.com/shivam00005/tesla-clone/blob/main/LICENSE
